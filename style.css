@@ -72,6 +72,8 @@ footer {
     padding-left: 30px;
     color: rgb(255, 255, 255);
     justify-content: center;
+    font-size: medium;
+    font-style: italic;
   }
 
 .produk {
